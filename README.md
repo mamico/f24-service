@@ -4,7 +4,7 @@ La libreria pn-f24lib (PagoPA) è disponibile su GitHub: https://github.com/mami
 Il repository è un fork dell'originale PagoPA modificato nel branch `standalone` per permettere una build
 senza i prerequisiti PagoPA.
 
-Una volta compilato il jar va meesso nella cartella `extras` di questo repository e aggiornato il riferimento nel `pom.xml`
+Una volta compilato il jar va messo nella cartella `extras` di questo repository e eventualmente aggiornato il riferimento nel `pom.xml`
 
 
 ## TODO
