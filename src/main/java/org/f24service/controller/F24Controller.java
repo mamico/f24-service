@@ -17,7 +17,7 @@ public class F24Controller {
     }
 
     @PostMapping(
-        value = "/pdf",
+        value = "/pdf/simplified",
         consumes = MediaType.APPLICATION_JSON_VALUE,
         produces = MediaType.APPLICATION_PDF_VALUE
     )
